@@ -4,3 +4,4 @@
 ファンタジースプリングス
 git add
 git commit
+git rm
